@@ -1,0 +1,48 @@
+PROPRIETARY PERSONAL-USE LICENSE
+Effective for first-party releases starting with version 0.1.2.
+Copyright (c) 2026 WaltomAdaam2. All rights reserved.
+
+1. Permission. The copyright holder grants the original recipient limited,
+non-exclusive, non-transferable permission to download the official binary,
+install it on devices they control, and use it for personal, non-commercial
+purposes. Private backup copies for that use are permitted.
+
+2. Restrictions. Without prior written permission from the copyright holder,
+you may not redistribute, re-upload, mirror, publish, sell, sublicense, rent,
+or otherwise provide first-party source code or binaries to anyone else.
+You may not use them commercially, distribute modified versions, or remove
+first-party copyright and license notices. Sharing a link to the official
+release page is permitted. Public download availability grants no right
+to redistribute the application or obtain its first-party source code.
+
+3. Third-party materials. This license applies only to material owned by the
+copyright holder. Third-party libraries, runtimes, game assets, trademarks
+and imported map packs retain their respective licenses and rights. Their
+license terms take precedence for those materials. In particular, this
+license does not restrict rights to modify or replace LGPL libraries or
+reverse-engineer the application to debug such modifications, or any other
+rights granted by third-party licenses or mandatory law.
+See the installed third-party notices and license texts.
+
+4. Historical grants. This license does not revoke or change GPL or other
+permissions already granted for historical releases. Those copies remain
+subject to the licenses under which they were received.
+
+5. Termination. Permission under this license terminates on breach. Stop
+using and remove first-party copies, except where retention is required
+by law. Third-party and historical grants are unaffected.
+
+6. Disclaimer. TO THE EXTENT PERMITTED BY LAW, THE SOFTWARE IS PROVIDED
+"AS IS", WITHOUT WARRANTY OF ANY KIND. THE COPYRIGHT HOLDER IS NOT LIABLE
+FOR CLAIMS, DAMAGES OR OTHER LIABILITY ARISING FROM ITS USE. Nothing here
+excludes liability or rights that cannot legally be excluded.
+
+Permission requests: contact WaltomAdaam2 through the official GitHub
+release repository: https://github.com/WaltomAdaam2/desktop-releases
+
+中文摘要：从 0.1.2 起，自有代码仅授权个人非商业使用及私人备份。
+未经书面许可，禁止转载、镜像、分发、出售、转授权及分发修改版。
+允许分享官方下载页面链接。公开下载不代表允许再次分发。
+第三方组件、地图及游戏素材保留各自权利；第三方许可证、LGPL
+组件替换与调试权利、历史 GPL 授权和法律强制规定不受本许可限制。
+英文条款为完整许可文本。
